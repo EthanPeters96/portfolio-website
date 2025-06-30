@@ -8,6 +8,7 @@ export default defineConfig(
             [
                 react(),
             ],
+        base: "/portfolio-website/",
         server: {
             port: 3000,
             open: true,
