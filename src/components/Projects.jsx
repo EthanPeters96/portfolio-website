@@ -14,7 +14,7 @@ const Projects =
                     title: "Titan Clothing",
                     description:
                         "A modern e-commerce platform for clothing and apparel. Features responsive design, product catalog, shopping cart functionality, and secure checkout process.",
-                    image: "/titan-logo.svg",
+                    image: "titan-logo.svg",
                     technologies:
                         [
                             "React",
